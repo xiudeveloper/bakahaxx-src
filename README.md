@@ -1,2 +1,3 @@
 # bakahaxx-src
-get noob
+the source code to bakahaxx
+(get noob its obfuscated)
